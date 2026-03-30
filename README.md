@@ -79,8 +79,6 @@ Place the project in your server directory (for example, htdocs) and access:
 http://localhost/beauty-system/
 Screenshots
 
-Add project screenshots inside the /screenshots folder.
-
 Security
 Sensitive data handled via environment variables
 Secure payment integration
@@ -178,8 +176,6 @@ Colocar el proyecto en el servidor local y acceder a:
 
 http://localhost/beauty-system/
 Capturas
-
-Agregar imágenes en la carpeta /screenshots.
 
 Seguridad
 Uso de variables de entorno para datos sensibles
