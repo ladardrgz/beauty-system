@@ -1,6 +1,64 @@
 [EN] # BeautySystem is a full-featured e-commerce platform for cosmetics, developed using a custom MVC architecture in PHP.  
 It provides a complete solution for managing products, customers, orders, payments, shipping, and content.
 
+## Screenshots
+
+### Home
+
+![Home](screenshots/Home.png)
+
+### Admin Dashboard
+
+![Admin Dashboard](screenshots/Dashboard_Admin.png)
+
+### Customer Dashboard
+
+![Customer Dashboard](screenshots/Dashboard_Cliente.png)
+
+### Delivery Dashboard
+
+![Delivery Dashboard](screenshots/Dashboard_Repartidor.png)
+
+### Product Management
+
+![Product Management](screenshots/CRUD_Productos.png)
+
+### Customer Management
+
+![Customer Management](screenshots/CRUD_Clientes.png)
+
+### Shopping Cart
+
+![Shopping Cart](screenshots/Carrito.png)
+
+### Payment Confirmation
+
+![Payment Confirmation](screenshots/Confirmaci%C3%B3n%20de%20pago.png)
+
+### Payment Receipt
+
+![Payment Receipt](screenshots/Comprobante%20de%20pago.png)
+
+### Shipping Confirmation
+
+![Shipping Confirmation](screenshots/Confirmaci%C3%B3n%20de%20env%C3%ADo.png)
+
+### Blog
+
+![Blog](screenshots/Blog.png)
+
+### Blog Management
+
+![Blog Management](screenshots/CRUD_Blog.png)
+
+### Reports
+
+![Reports](screenshots/Reportes.png)
+
+### Project Structure
+
+![Project Structure](screenshots/Estructura%20de%20carpetas.png)
+
 ## Overview
 
 This project was built as a complete web application without using frameworks, focusing on scalability, modularity, and clean architecture.
